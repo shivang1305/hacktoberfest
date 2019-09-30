@@ -17,6 +17,10 @@ a=ABC()
 a.show()
 a._ABC__disp()
 
+def code(): 
+    for i in range(1,10,2):
+        print(i)
+
 
 
 
